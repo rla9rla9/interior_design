@@ -7,7 +7,7 @@
 .container{
   width: 100vw;
   height: 100vh;
-  background-image: url(./src/images/oldroom.jpg);
+  background-image: url(../src/images/oldroom.jpg);
   background-size: cover;
 }
 
