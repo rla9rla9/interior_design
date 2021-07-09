@@ -39,7 +39,7 @@
   color: darkseagreen;
 }
 
-.container .hero{
+.container .main phrase{
   position: absolute;
   left: 50%;
   top: 50%;
@@ -48,16 +48,16 @@
   text-align: center;
 }
 
-.container .hero h2{
+.container .main phrase h2{
   font-size: 60px;
   margin-bottom: 20px; /* h2태그와 h태그 사이의 간격을 20px */
 }
 
-.container .hero p{
+.container .main phrase p{
   font-size: 22px;
 }
 
-.container .hero button{
+.container .main phrase button{
   background: none;
   border: 2px solid darkseagreen;
   color: white;
@@ -69,6 +69,6 @@
   transition: all .4s;
 }
 
-.container .hero button:hover{
+.container .main phrase button:hover{
   background-color: darkslategray;
 }
