@@ -39,7 +39,7 @@
   color: darkseagreen;
 }
 
-.container .main phrase{
+.container .main{
   position: absolute;
   left: 50%;
   top: 50%;
@@ -48,16 +48,16 @@
   text-align: center;
 }
 
-.container .main phrase h2{
+.container .main h2{
   font-size: 60px;
   margin-bottom: 20px; /* h2태그와 h태그 사이의 간격을 20px */
 }
 
-.container .main phrase p{
+.container .main p{
   font-size: 22px;
 }
 
-.container .main phrase button{
+.container .main button{
   background: none;
   border: 2px solid darkseagreen;
   color: white;
@@ -69,6 +69,6 @@
   transition: all .4s;
 }
 
-.container .main phrase button:hover{
+.container .main button:hover{
   background-color: darkslategray;
 }
